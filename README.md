@@ -1,15 +1,15 @@
-# State Pattern
+# Patrón State
 
-Player reproducer State pattern
+Reproductor usando el patrón State
 
-## Build and Run
+## Correr & Compilar
 
-1. Build:
+1. Compilar:
    - `mvn -q -DskipTests package`
-   - Or without Maven installed: `mvnw.cmd -q -DskipTests package`
-2. Run:
+   - Sin Maven: `mvnw.cmd -q -DskipTests package`
+2. Correr:
    - `java -cp target/classes com.state.Main`
 
 ## IDE import
 
-- Import as a Maven project (pom.xml) in IntelliJ IDEA, Eclipse, or NetBeans.
+- Importar como "Maven project" (pom.xml) en IntelliJ IDEA, Eclipse, o NetBeans.
